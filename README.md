@@ -22,9 +22,6 @@ Ademas se usaron fuentes de datos externas como el observatorio de internet inte
 *2-  KPi objetivos: permite determinar cual es la tegnologia a analizar  devido a las nesesidades del contexto actual en requerimiento de velocidad ,infraestructura  y consumo.
  ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard%20en%20imagenes/0002.jpg)
 
-*3-  Descripcion y Concluciones: contiene descripcion de la tegnologia,metodologia del analisis. 
- ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard%20en%20imagenes/0003.jpg)
-
 
 **Lenguajes,tegnologias usados:**
 * **python**
