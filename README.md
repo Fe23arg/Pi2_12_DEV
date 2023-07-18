@@ -1,5 +1,5 @@
 # ANALISIS TELECOMUNICACIONES EN ARGENTINA
->El presente analizis se realizo sobre la fuente de datos abierto del ENACOM,analizando la tegnologias que permiten el acceso a internet en argentina ,con datos que describen la cantidad de accesos a internet por provincia o totales por periodos de tiempo,como tambien la cantidad de hogares con acceso a internet (muestra) por provincia.
+>El presente analisis se realizo sobre la fuente de datos abierto del ENACOM,analizando la tegnologias que permiten el acceso a internet en argentina ,con datos que describen la cantidad de accesos a internet por provincia o totales por periodos de tiempo,como tambien la cantidad de hogares con acceso a internet (muestra) por provincia.
 Ademas se usaron fuentes de datos externas como el observatorio de internet internacional para estimar un costo y velocidad promedio para proyectar posible costos e inversiones.
 
 ## Pagina Web Interactiva:
@@ -19,7 +19,7 @@ Ademas se usaron fuentes de datos externas como el observatorio de internet inte
 *1-  Analisis Historico: luego del analisis las posibles rentabilidades y segmentos o areas a invertir
  ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard%20en%20imagenes/0001.jpg)
 
-*2-  KPi objetivos: permite determinar cual es la tegnologia a analizar  devido a las nesesidades del contexto actual en requerimiento de velocidad ,infraestructura  y consumo.
+*2-  KPi objetivos: permite determinar cual es la tegnologia a analisar  devido a las nesesidades del contexto actual en requerimiento de velocidad ,infraestructura  y consumo.
  ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard%20en%20imagenes/0002.jpg)
 
 
