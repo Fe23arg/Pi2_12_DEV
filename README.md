@@ -17,10 +17,10 @@ Ademas se usaron fuentes de datos externas como el observatorio de internet inte
 
 
 *1-  Analisis Historico: luego del analisis las posibles rentabilidades y segmentos o areas a invertir
- ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard%20en%20imagenes/0001.jpg)
+ ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard_en_imagenes/0001.jpg)
 
 *2-  KPi objetivos: permite determinar cual es la tegnologia a analisar  devido a las nesesidades del contexto actual en requerimiento de velocidad ,infraestructura  y consumo.
- ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard%20en%20imagenes/0002.jpg)
+ ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard_en_imagenes/0002.jpg)
 
 
 **Lenguajes,tegnologias usados:**
