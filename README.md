@@ -16,10 +16,10 @@ Ademas se usaron fuentes de datos externas como el observatorio de internet inte
 **[Dashboard Telecomunicaciones Looker:](https://lookerstudio.google.com/reporting/e22b6d43-e0bf-4ad8-8df0-0d5b1c8ff712)**
 
 
-*1-  Analisis Historico: luego del analisis las posibles rentabilidades y segmentos o areas a invertir
+* ***1-  Analisis Historico: luego del analisis las posibles rentabilidades y segmentos o areas a invertir***
  ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard_en_imagenes/0001.jpg)
 
-*2-  KPi objetivos: permite determinar cual es la tegnologia a analisar  devido a las nesesidades del contexto actual en requerimiento de velocidad ,infraestructura  y consumo.
+* ***2-  KPi objetivos: permite determinar cual es la tegnologia a analisar  devido a las nesesidades del contexto actual en requerimiento de velocidad ,infraestructura  y consumo.***
  ![](https://github.com/Fe23arg/Pi2_12_DEV/blob/main/dashboard_en_imagenes/0002.jpg)
 
 
